@@ -1,6 +1,7 @@
 Hello
 What are you doing?
+I'm studying
 Can I help you in something?
-Do you need my help in anything?
-May I know what are you doing?
+Do you need my help in anything...
+How are you doing?
 
